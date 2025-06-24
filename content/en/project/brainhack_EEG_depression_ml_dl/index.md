@@ -1,4 +1,3 @@
-Brain Hack School 2025 Project | Decoding Depression from EEG using ML (SVM) and DL (EEGNet) 
 
 ---
 type: "project" # DON'T TOUCH THIS ! :)
